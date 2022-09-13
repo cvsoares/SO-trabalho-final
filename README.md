@@ -1,1 +1,29 @@
-# SO-trabalho-final
+# Implementação multithread
+
+Você deve procurar uma lista de palavras em um diagrama de letras e indicar
+se cada palavra foi encontrada ou não. Se a palavra foi encontrada, você deve
+indicar a posição inicial e o sentido. Observe o diagrama abaixo e procure
+as palavras: (threads, arquivos, sinais, pipe, processos, mutex e fork).
+Lembre-se de procurar as palavras nas direções horizontais e verticais.
+Para agilizar a busca, faça uma implementação multi-thread. Cada thread
+terá como tarefa encontrar uma palavra. Caso a palavra seja encontrada,
+informe a posição que a mesma ocupa.
+
+runkffxscslvqwvtvfolwymmxprocessoslkqoifheurjzqbdlpybntwiblv
+xjhjguvykdfrjzltbbweoldpyiymizzdyinjqjfoukvluuypvancozhgzfuk
+htphdcttoyjiketgysvwujakkphslomvxhlfmpyfdyqniuhpvbmtxvtjhact
+qqooatbvmttswtkkdftscwhvveeoemqifgztuzxplqkfofqyjxtdzrkumpkt
+bcbgkhabfbywnojsdokdxhzbgqncfcoyfqblbcpidngserlhgxmfflileyql
+aejivrkvyokguyomsinaisegznoxzvcneptcfeeknmhzifqunkudyyjylxxn
+tbazqetdyxhkmwrongydanpvqotcohbluwmuvcpacokmagfpoftoukjlyfpo
+mqzinalckqtlshvvhjdoyruthogrbeyqtmjuuwgyiyrvsaszjvqjokfwalpc
+rpumbddhvbpvminmhhoahzvzimjpilazpsokeppnmtchfrvmzjoikmhxsyqk
+ibkhtsevdlkuuyyndfuuajtlxbvjiphazpemyxstcdfwedmhkgbmpvzepwuy
+hmijnznzykuqtoxzlbezirhmdxhdmfzmoluybulauywnmumzxtyikiutpfbs
+tiuhxheviyrglughhvbwubpvjbddqkglfofmnmqivqrgkxpuutqpuhmudiri
+ydojieqwsadpcahtistxonqeemnsrvjzvmphwuxtociqcpkmjfmzsedmzrsr
+indklrzsotphhurayiklurxtjdzkurefhhpsyokmkbvtvotuzfhtweoihpse
+hwlqdaaiequsavoutenpdvwyrcnzjespnqadwcnathstfipanfpqalrrngry
+thrxfdsklqybqdxvrzoasjfabfpgwiihzbufuvrflpjbtgykimmaysczzsfw
+
+Obs.: Este trabalho foi feito em 2019, só agora que estou salvando remotamente.
